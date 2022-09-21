@@ -3,7 +3,7 @@ body{
     text-align: center;
     background-color: rgb(237, 250, 202);
     font-family: 'lora',serif;
-    background-image: url('../IEEE/pinterest.jpg');
+    background-image: url('pinterest.jpg');
     background-position:center;
     background-size: cover;
     height: 1vh;
